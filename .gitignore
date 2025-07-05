@@ -1,1 +1,6 @@
 .venv/
+__pycache__/
+output/
+build/
+dist/
+youtube_mp3.spec
